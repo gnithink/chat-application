@@ -9,7 +9,7 @@
 #include <netdb.h>
 #include <arpa/inet.h>
 #include <signal.h>
-#include "duckchat.h"
+#include "chat.h"
 
 #define UNUSED __attribute__((unused))
 #define BUFSIZE 512 

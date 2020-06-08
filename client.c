@@ -10,7 +10,7 @@
 #include <netdb.h>
 #include <arpa/inet.h>
 #include <signal.h>
-#include "duckchat.h"
+#include "chat.h"
 #include "raw.h"
 
 #define UNUSED __attribute__((unused))

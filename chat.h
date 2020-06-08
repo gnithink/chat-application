@@ -1,5 +1,5 @@
-#ifndef DUCKCHAT_H
-#define DUCKCHAT_H
+#ifndef CHAT_H
+#define CHAT_H
 
 /* Path names to unix domain sockets should not be longer than this */
 #ifndef UNIX_PATH_MAX
